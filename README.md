@@ -1,6 +1,8 @@
 # 🐍 python-imageplaceholder
 For this python project I used python Pillow module to work with image modification. I created a python function that takes in `id, name, dob(date of birth), joined(joined date), address`. I found a card online that need those specification so I just go with it and learn Pillow on the way.
 
+[Pillow Python](https://pillow.readthedocs.io/en/stable/), [Basic of Pillow](https://www.geeksforgeeks.org/python-pillow-a-fork-of-pil/)
+
 ![Screenshot](https://i.imgur.com/kD5xvgC.png)
 
 ## 📌 Current Version
